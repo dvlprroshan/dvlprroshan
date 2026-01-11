@@ -109,7 +109,7 @@ Context-switching kills productivity. I learned **Lua** specifically to build Ta
 
 
 
-### 💼 [40+ Client Projects](https://roshankumar.in/)
+### 💼 [40+ Client Projects](https://dvlprroshan.com/)
 > *From freelance to full-time: building the web, one site at a time.*
 
 I shipped over 40 different websites as a freelancer—everything from e-commerce platforms to corporate sites. Each project was a masterclass in understanding client needs, delivering on time, and maintaining systems long after deployment. Clients praised my technical soundness, dedication, and professional approach.
